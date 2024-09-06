@@ -1,2 +1,2 @@
-## Laboratório de Programção de Computadores
+## Laboratório de Programação de Computadores
 Aluno: Gabriel Augusto da Eira Corrêa Benayon
